@@ -1,19 +1,19 @@
-ADM1ALT1EN,Total Junior High Schools,Public Junior High Schools,Private Junior High Schools,Total Senior High Schools,Public Senior High Schools,Private Senior High Schools
-NCR,1147,295,852,986,241,745
-CAR,498,362,136,353,249,104
-Ilocos Region,895,601,294,811,564,247
-Cagayan Valley,654,498,156,499,360,139
-Central Luzon,1612,879,733,1263,630,633
-Calabarzon,2024,788,1236,1465,548,917
-Mimaropa,610,487,123,406,298,108
-Bicol Region,1004,778,226,969,700,269
-Western Visayas,1184,845,339,927,669,258
-Central Visayas,1449,974,475,1169,798,371
-Eastern Visayas,751,624,127,575,456,119
-Zamboanga Peninsula,592,479,113,505,371,134
-Northern Mindanao,908,639,269,641,397,244
-Davao Region,855,624,231,629,403,226
-Soccsksargen,806,635,171,572,402,170
-Caraga,579,488,91,490,405,85
-ARMM,525,404,121,345,255,90
-NIR,494,358,136,567,402,165
+ADM1ALT1EN,Total Junior High Schools,Public Junior High Schools,Private Junior High Schools,Total Senior High Schools,Public Senior High Schools,Private Senior High Schools,Total Schools
+NCR,1147,295,852,986,241,745,2133
+CAR,498,362,136,353,249,104,851
+Ilocos Region,895,601,294,811,564,247,1706
+Cagayan Valley,654,498,156,499,360,139,1153
+Central Luzon,1612,879,733,1263,630,633,2875
+Calabarzon,2024,788,1236,1465,548,917,3489
+Mimaropa,610,487,123,406,298,108,1016
+Bicol Region,1004,778,226,969,700,269,1973
+Western Visayas,1184,845,339,927,669,258,2111
+Central Visayas,1449,974,475,1169,798,371,2618
+Eastern Visayas,751,624,127,575,456,119,1326
+Zamboanga Peninsula,592,479,113,505,371,134,1097
+Northern Mindanao,908,639,269,641,397,244,1549
+Davao Region,855,624,231,629,403,226,1484
+Soccsksargen,806,635,171,572,402,170,1378
+Caraga,579,488,91,490,405,85,1069
+ARMM,525,404,121,345,255,90,870
+NIR,494,358,136,567,402,165,1061
